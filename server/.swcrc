@@ -1,0 +1,18 @@
+{
+    "module": {
+        "type": "commonjs"
+    },
+    "jsc": {
+        "parser": {
+            "syntax": "typescript",
+            "jsx": false,
+            "dynamicImport": false,
+            "decorators": false
+        },
+        "transform": null,
+        "target": "es2020",
+        "loose": false,
+        "externalHelpers": false,
+        "keepClassNames": false
+    }
+}
